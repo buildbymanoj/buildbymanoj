@@ -10,6 +10,7 @@ Final-year Electronics Engineering student passionate about building innovative 
   
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manoj-m-53621829a/)
 [![HackerRank Badge](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/manojmahendran51)
+[![GeeksforGeeks Badge](https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
 [![Email Badge](https://img.shields.io/badge/Email-manojmahendran555@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:manojmahendran555@gmail.com)
 [![Location Badge](https://img.shields.io/badge/Location-Chennai,%20India-4285F4?style=for-the-badge&logo=google-maps)](https://maps.google.com)
 
