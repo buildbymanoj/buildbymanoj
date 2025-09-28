@@ -117,7 +117,7 @@ Final-year Electronics Engineering student passionate about building innovative 
   <h3>📊 GitHub Stats</h3>
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=buildbymanoj&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub Stats"></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=buildbymanoj&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"></td>
       <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buildbymanoj&layout=compact&theme=tokyonight" alt="Top Languages" /></td>
     </tr>
   </table>
