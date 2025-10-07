@@ -9,8 +9,11 @@ Final-year Electronics Engineering student passionate about building innovative 
 
 <div align="center">
   
+<a href="https://buildbymanoj-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/🚀_View_My_Portfolio-9726E8?style=for-the-badge&logo=rocket&logoColor=white" alt="Portfolio Badge"/>
+</a>
+
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manoj-m-53621829a/)
-[![HackerRank Badge](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/manojmahendran51)
 [![GeeksforGeeks Badge](https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/manojmahej7tu/)
 [![Email Badge](https://img.shields.io/badge/Email-manojmahendran555@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:manojmahendran555@gmail.com)
 [![Location Badge](https://img.shields.io/badge/Location-Chennai,%20India-4285F4?style=for-the-badge&logo=google-maps)](https://maps.google.com)
@@ -19,52 +22,15 @@ Final-year Electronics Engineering student passionate about building innovative 
 
 ---
 
-## 💡 Featured Projects
+## 🚀 Key Projects
 
-### 🤖 [BuildbyManoj-chatbot | AI Assistant with RAG](https://buildbymanoj-chatbot.onrender.com)
-> A Flask-powered AI assistant with live web search for providing real-time, context-aware answers.
-> 
-> **Tech Stack:**
-> 
-> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-> ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-> ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
->  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- **[ReflectAI - AI Communication Coach](https://buildbymanoj-reflect-ai.hf.space/)**: An intelligent platform that analyzes speech patterns, detects emotion, and provides transcripts with actionable feedback to help users master their public speaking skills.
 
----
+- **[BuildbyManoj - RAG AI Assistant](https://buildbymanoj-chatbot.onrender.com)**: A Flask-powered AI assistant leveraging Retrieval-Augmented Generation (RAG) and live web search to provide real-time, contextually aware answers.
 
-### 🥗 NutritionTracker | Full-Stack Web App
-> A full-stack MERN application designed to help users track and analyze their daily nutritional intake for a healthier lifestyle.
-> 
-> **Tech Stack:**
-> 
-> ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-> ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-> ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-> ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+- **[Nutrify - MERN Nutrition Tracker](https://nutrify-two.vercel.app/)**: A full-stack MERN application designed to help users track and analyze their daily nutritional intake for a healthier lifestyle.
 
----
-
-### 🌱 Real-Time Plant Stress Detection | Computer Vision
-> An OpenCV-based model that utilizes a live webcam feed to detect and identify signs of stress or disease in plants in real-time.
-> 
-> **Tech Stack:**
-> 
-> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-> ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
----
-
-### 🌟 [Portfolio Website](https://buildbymanoj-portfolio.vercel.app)
-> A personal portfolio website built from scratch to showcase my projects, skills, and professional journey.
-> 
-> **Tech Stack:**
-> 
-> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- **[Plant Stress & Disease Detection](https://buildbymanoj-plant-disease-prediction.hf.space/)**: A real-time computer vision model using OpenCV to detect and identify signs of stress or disease in plants via a live webcam feed.
 
 ---
 
@@ -81,7 +47,7 @@ Final-year Electronics Engineering student passionate about building innovative 
 #### Web Development
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
@@ -99,7 +65,7 @@ Final-year Electronics Engineering student passionate about building innovative 
 #### Tools & Technologies
 <p>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   <img src="https://n8n.io/favicon.ico" alt="n8n" width="40" height="40"/>
